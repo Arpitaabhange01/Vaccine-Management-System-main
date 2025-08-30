@@ -44,5 +44,6 @@ The project is built using **Java Swing (GUI)** and **JDBC** for database connec
 
 ---
 
-https://raw.githubusercontent.com/<Arpitaabhange01>/<https://github.com/Arpitaabhange01/Vaccine-Management-System-main>/main/screenshots/Screenshot 2024-02-27 130017.png
+![Dashboard Screenshot](https://raw.githubusercontent.com/Arpitaabhange01/Vaccine-Management-System-main/main/screenshots/Screenshot%202024-02-27%20130017.png)
+
 

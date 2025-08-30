@@ -45,13 +45,13 @@ The project is built using **Java Swing (GUI)** and **JDBC** for database connec
 ---
 
 ![Dashboard Screenshot](https://raw.githubusercontent.com/Arpitaabhange01/Vaccine-Management-System-main/main/screenshots/Screenshot%202024-02-27%20130017.png)
-![Dashboard Screenshot](https://raw.githubusercontent.com/Arpitaabhange01/Vaccine-Management-System-main/main/screenshots/Screenshot%2024-02-27%130045.png)
-![Dashboard Screenshot](https://raw.githubusercontent.com/Arpitaabhange01/Vaccine-Management-System-main/main/screenshots/Screenshot%2024-02-27%130103.png)
-![Dashboard Screenshot](https://raw.githubusercontent.com/Arpitaabhange01/Vaccine-Management-System-main/main/screenshots/Screenshot%2024-02-27%130135.png)
-![Dashboard Screenshot](https://raw.githubusercontent.com/Arpitaabhange01/Vaccine-Management-System-main/main/screenshots/Screenshot%2024-02-27%130152.png)
-![Dashboard Screenshot](https://raw.githubusercontent.com/Arpitaabhange01/Vaccine-Management-System-main/main/screenshots/Screenshot%2024-02-27%130211.png)
-![Dashboard Screenshot](https://raw.githubusercontent.com/Arpitaabhange01/Vaccine-Management-System-main/main/screenshots/Screenshot%2024-02-27%130225.png)
-![Dashboard Screenshot](https://raw.githubusercontent.com/Arpitaabhange01/Vaccine-Management-System-main/main/screenshots/Screenshot%2024-02-27%130235.png)
-![Dashboard Screenshot](https://raw.githubusercontent.com/Arpitaabhange01/Vaccine-Management-System-main/main/screenshots/Screenshot%2024-02-27%130250.png)
-![Dashboard Screenshot](https://raw.githubusercontent.com/Arpitaabhange01/Vaccine-Management-System-main/main/screenshots/Screenshot%2024-02-27%130310.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/Arpitaabhange01/Vaccine-Management-System-main/main/screenshots/Screenshot%202024-02-27%20130045.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/Arpitaabhange01/Vaccine-Management-System-main/main/screenshots/Screenshot%202024-02-27%20130103.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/Arpitaabhange01/Vaccine-Management-System-main/main/screenshots/Screenshot%202024-02-27%20130135.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/Arpitaabhange01/Vaccine-Management-System-main/main/screenshots/Screenshot%202024-02-27%20130152.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/Arpitaabhange01/Vaccine-Management-System-main/main/screenshots/Screenshot%202024-02-27%20130211.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/Arpitaabhange01/Vaccine-Management-System-main/main/screenshots/Screenshot%202024-02-27%20130225.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/Arpitaabhange01/Vaccine-Management-System-main/main/screenshots/Screenshot%202024-02-27%20130235.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/Arpitaabhange01/Vaccine-Management-System-main/main/screenshots/Screenshot%202024-02-27%20130250.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/Arpitaabhange01/Vaccine-Management-System-main/main/screenshots/Screenshot%202024-02-27%20130310.png)
 
